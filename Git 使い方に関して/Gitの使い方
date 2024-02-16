@@ -1,5 +1,5 @@
 Gitに関して
 https://git-scm.com/book/zh/v2/Git-基础-记录每次更新到仓库
-コミット：Worktools で作られた内容をローカルリポジトリに記録する。
+コミット：Worktools(VimまたはVScode) で作られた内容をローカルリポジトリに記録する。
 Push：ローカルからリモートリポジトリ同期。
 Pull：リモートからローカル同期。
